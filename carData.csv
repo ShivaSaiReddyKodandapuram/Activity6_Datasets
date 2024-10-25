@@ -1,0 +1,26 @@
+Model,Weight (kg),Horsepower (HP),Engine Size (L),Fuel Efficiency (MPG)
+Toyota Corolla,1250,132,1.8,30
+Honda Civic,1200,158,2.0,32
+Ford Focus,1350,160,2.0,28
+BMW 3 Series,1450,255,2.0,26
+Audi A4,1500,248,2.0,24
+Hyundai Elantra,1300,147,2.0,31
+Chevrolet Malibu,1550,160,1.5,29
+Mazda 3,1250,155,2.5,30
+Kia Optima,1420,185,2.5,27
+Nissan Altima,1450,188,2.5,26
+Volkswagen Jetta,1380,147,2.0,29
+Subaru Impreza,1340,152,2.0,27
+Ford Fusion,1500,245,2.5,25
+Honda Accord,1500,192,1.5,33
+Toyota Camry,1550,203,2.5,29
+Hyundai Sonata,1400,180,2.4,28
+Chevrolet Cruze,1360,153,1.4,31
+Mazda 6,1520,187,2.5,27
+Nissan Sentra,1350,149,1.8,32
+Kia Forte,1300,147,2.0,30
+Volkswagen Passat,1480,174,2.0,28
+Subaru Legacy,1510,182,2.5,26
+Dodge Charger,1600,292,3.6,20
+Chrysler 300,1700,300,3.6,19
+Ford Mustang,1550,310,5.0,15
